@@ -58,9 +58,6 @@ class Program
             video.PrintVideoDetails(); 
         }
 
-
-
-
         video.PrintVideoDetails();
     }
 }
